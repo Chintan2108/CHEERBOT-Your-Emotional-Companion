@@ -40,6 +40,8 @@ Please feel free to raise issues and fix any existing ones. Further details can 
 
 ## Credits
 
+* Co-Contributor: [Tejas Pandit](https://github.com/tejasnp163)
+
 Please cite this work as:
 
 ```
