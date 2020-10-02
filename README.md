@@ -8,6 +8,8 @@
 
 Cheerbot is a special kind of chatbot that can talk to you with voice or texts. It is your emotional companion - it will cheer you up if you are sad and add to your happiness otherwise. The main objective of creating this project was to attempt and help fight loneliness and depression in this monotonous world. A lot of us feel depressed at times, feel vulnerable and scared of talking out loud to another person. This is a sincere attempt to try and help in such a scenario - talk to Cheerbot. It will understand you, and try to determine your emotional state based on the keywords you speak, the pitch of your voice and even your facial contours as well as expressions. If you are sad the Cheerbot will try to crack jokes in an honest attempt to make you laugh. 
 
+[![Gitter](https://badges.gitter.im/CHEERBOT-Your-Emotional-Companion/community.svg)](https://gitter.im/CHEERBOT-Your-Emotional-Companion/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## Modules
 
 ### Built With/Libraries Used/Tools & Technology
