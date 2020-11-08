@@ -3,6 +3,10 @@ import
 import wave
 import numpy as np
 
+'''
+Open the wave file and extract useful information.
+'''
+
 chunk = 2048
 
 wf = wave.open('test/file2.wav', 'rb')
