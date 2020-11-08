@@ -4,7 +4,7 @@ import wave
 import numpy as np
 
 '''
-Open the wave file and extract useful information
+Open the wave file and extract useful information.
 '''
 
 chunk = 2048
